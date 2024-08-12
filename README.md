@@ -6,7 +6,7 @@ Analyser les données de vente d'une librairie en ligne pour fournir des insight
 ## Contenu du Dépôt
 - **Analyse des Ventes.ipynb** : Notebooks contenant les traitements et analyses.
 - **Données** : Fichiers de données extraits du ZIP.
-- **Présentation_CODIR.pptx** : Support de présentation pour le CODIR.
+- **Présentation_CODIR.pptx** : Support de présentation pour le CODIR. (Prochainement)
 
 ## Instructions
 1. **Importez les Données** : Utilisez les fichiers de données extraits du ZIP.
