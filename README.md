@@ -5,13 +5,13 @@ Analyser les données de vente d'une librairie en ligne pour fournir des insight
 
 ## Contenu du Dépôt
 - **Analyse des Ventes.ipynb** : Notebooks contenant les traitements et analyses.
-- **Données** : Fichiers de données extraits du ZIP.
-- **Présentation_CODIR.pptx** : Support de présentation pour le CODIR. (Prochainement)
+- **Data** : Fichiers de données.
+- **Présentation.pdf** : Support de présentation pour le CODIR. (Prochainement)
 
 ## Instructions
-1. **Importez les Données** : Utilisez les fichiers de données extraits du ZIP.
-2. **Exécutez les Analyses** : Ouvrez le notebook Jupyter pour réaliser les traitements.
-3. **Préparez la Présentation** : Utilisez le fichier `.pptx` pour présenter vos résultats. (A venir)
+1. **Exécutez les Analyses** : Ouvrez le notebook Jupyter pour réaliser les traitements.
+2. **Importez les Données** : Utilisez les fichiers de données.
+3. **Préparez la Présentation** : Utilisez le fichier `.pdf` pour vous inspirer ou consulter les resultats fournis. 
 
 ## Ressources
 - [Documentation Python pour Pandas](https://pandas.pydata.org/pandas-docs/stable/)
